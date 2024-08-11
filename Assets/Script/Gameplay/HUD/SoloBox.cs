@@ -187,7 +187,7 @@ namespace YARG.Gameplay.HUD
             else if (!on && _showingForPreview)
             {
                 _soloBox.gameObject.SetActive(false);
-                _showingForPreview = false;
+                _showingForPreview = true;
             }
         }
     }
