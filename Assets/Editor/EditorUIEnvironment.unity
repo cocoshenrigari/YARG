@@ -157,6 +157,7 @@ GameObject:
   - component: {fileID: 3216922088624139085}
   - component: {fileID: 6857205971751088782}
   - component: {fileID: 1992801319546851186}
+  - component: {fileID: 6857205971751088784}
   m_Layer: 5
   m_Name: EditorCanvas
   m_TagString: Untagged
@@ -206,3 +207,11 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!222 &6857205971751088784
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2932326802147925138}
+  m_CullTransparentMesh: 1

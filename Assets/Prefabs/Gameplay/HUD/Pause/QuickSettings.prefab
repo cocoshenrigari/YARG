@@ -766,6 +766,23 @@ PrefabInstance:
       propertyPath: m_text
       value: Quick Settings
       objectReference: {fileID: 0}
+    - target: {fileID: 8918172422257679858, guid: d0426e4d1cafc1c489d1df380508ec96,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 89ecfb2c6f5a7cb4c9eddf2bb7791d66,
+        type: 2}
+    - target: {fileID: 8918172422257679858, guid: d0426e4d1cafc1c489d1df380508ec96,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 252425130595513144, guid: 89ecfb2c6f5a7cb4c9eddf2bb7791d66,
+        type: 2}
+    - target: {fileID: 8918172422257679858, guid: d0426e4d1cafc1c489d1df380508ec96,
+        type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d0426e4d1cafc1c489d1df380508ec96, type: 3}
 --- !u!224 &4220475145157243466 stripped
@@ -798,7 +815,7 @@ MonoBehaviour:
   _subSettingsNavGroup: {fileID: 2466188838166874910}
   _editHudButton: {fileID: 407376744541711448}
   _subSettingsBackButton: {fileID: 2756272007049743397}
-  _pauseVolumeSettingPrefab: {fileID: -8693196744517643411, guid: 24a963b7c0e99274fbace94c7c237fb0,
+  _volumePauseSettingPrefab: {fileID: -8693196744517643411, guid: 24a963b7c0e99274fbace94c7c237fb0,
     type: 3}
 --- !u!224 &4220475146792831268 stripped
 RectTransform:
@@ -813,6 +830,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 742624364121317624}
     m_Modifications:
+    - target: {fileID: 3391331689508823288, guid: 532a620ab94bd6c4d9d454f4f3725d0f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7888423432613039791, guid: 532a620ab94bd6c4d9d454f4f3725d0f,
         type: 3}
       propertyPath: _onClick.m_PersistentCalls.m_Calls.Array.size
@@ -962,6 +984,23 @@ PrefabInstance:
         type: 3}
       propertyPath: m_text
       value: Back
+      objectReference: {fileID: 0}
+    - target: {fileID: 9127826232187365906, guid: 532a620ab94bd6c4d9d454f4f3725d0f,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 5bc00324c7a8b7f42b2a6d55e4795dd9,
+        type: 2}
+    - target: {fileID: 9127826232187365906, guid: 532a620ab94bd6c4d9d454f4f3725d0f,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -5330291637455886025, guid: 5bc00324c7a8b7f42b2a6d55e4795dd9,
+        type: 2}
+    - target: {fileID: 9127826232187365906, guid: 532a620ab94bd6c4d9d454f4f3725d0f,
+        type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 532a620ab94bd6c4d9d454f4f3725d0f, type: 3}
