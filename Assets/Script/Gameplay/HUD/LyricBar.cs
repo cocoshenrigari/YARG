@@ -104,7 +104,7 @@ namespace YARG.Gameplay.HUD
             using var output = ZString.CreateStringBuilder(true);
 
             // Start highlight
-            output.Append("<color=#5CB9FF>");
+            output.Append("<color=#d81000>");
 
             int i = 0;
             while (i < currIndex)
