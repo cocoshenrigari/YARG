@@ -154,14 +154,14 @@ Material:
     - _Starpower_Offset: -0.2
     - _Starpower_State: 0
     - _Surface: 0
-    - _Waviness: 0
+    - _Waviness: -0.06
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Layer_1_Color: {r: 0.058823504, g: 0.058823504, b: 0.058823504, a: 1}
+    - _Layer_1_Color: {r: 0.05882346, g: 0.05882346, b: 0.05882346, a: 0.16862746}
     - _Layer_2_Color: {r: 0.29411766, g: 0.29411766, b: 0.29411766, a: 0.1490196}
     - _Layer_3_Color: {r: 1, g: 1, b: 1, a: 0}
     - _Layer_4_Color: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 1}
