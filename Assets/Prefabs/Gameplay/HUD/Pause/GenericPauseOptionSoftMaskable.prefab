@@ -7,6 +7,33 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6846856528720448031, guid: 0e2af23c2e7465444a3fb84a06d425ae,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846856528720448031, guid: 0e2af23c2e7465444a3fb84a06d425ae,
+        type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 89ecfb2c6f5a7cb4c9eddf2bb7791d66,
+        type: 2}
+    - target: {fileID: 6846856528720448031, guid: 0e2af23c2e7465444a3fb84a06d425ae,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 6846856528720448031, guid: 0e2af23c2e7465444a3fb84a06d425ae,
+        type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 252425130595513144, guid: 89ecfb2c6f5a7cb4c9eddf2bb7791d66,
+        type: 2}
+    - target: {fileID: 6846856528720448031, guid: 0e2af23c2e7465444a3fb84a06d425ae,
+        type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6846856529861592900, guid: 0e2af23c2e7465444a3fb84a06d425ae,
         type: 3}
       propertyPath: m_Pivot.x
