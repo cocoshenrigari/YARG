@@ -161,11 +161,11 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Layer_1_Color: {r: 0.05882346, g: 0.05882346, b: 0.05882346, a: 0.16862746}
-    - _Layer_2_Color: {r: 0.29411766, g: 0.29411766, b: 0.29411766, a: 0.1490196}
-    - _Layer_3_Color: {r: 1, g: 1, b: 1, a: 0}
-    - _Layer_4_Color: {r: 0.3301887, g: 0.3301887, b: 0.3301887, a: 1}
-    - _Solo_Color: {r: 0, g: 0.7058823, b: 1, a: 0.019607844}
+    - _Layer_1_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Layer_2_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Layer_3_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Layer_4_Color: {r: 1, g: 0, b: 0, a: 1}
+    - _Solo_Color: {r: 1, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Starpower_Color: {r: 1, g: 0.59607846, b: 0, a: 1}
+    - _Starpower_Color: {r: 1, g: 0, b: 0, a: 1}
   m_BuildTextureStacks: []
