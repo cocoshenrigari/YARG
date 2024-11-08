@@ -114,17 +114,8 @@ namespace YARG.Menu.Main
 
         public void OpenDiscord()
         {
-            Application.OpenURL("https://discord.gg/sqpu4R552r");
+            Application.OpenURL("https://discord.com/invite/taigaholic");
         }
 
-        public void OpenTwitter()
-        {
-            Application.OpenURL("https://twitter.com/YARGGame");
-        }
-
-        public void OpenGithub()
-        {
-            Application.OpenURL("https://github.com/YARC-Official/YARG");
-        }
     }
 }

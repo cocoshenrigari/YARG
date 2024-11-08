@@ -3195,11 +3195,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 8056600719258356204}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b206653ff795414fb7995c4bc8d96b4, type: 3}
+  m_Script: {fileID: 11500000, guid: dd6642a67515c31499bbcf78c1a8520a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _dropdown: {fileID: 5558426258692239888, guid: 56d43799b373bb54b85fb7086327e554,
-    type: 3}
+  _versionText: {fileID: 0}
 --- !u!1 &8056600719397396521
 GameObject:
   m_ObjectHideFlags: 0
@@ -3371,7 +3370,7 @@ GameObject:
   - component: {fileID: 8056600720790925665}
   - component: {fileID: 8056600720790925664}
   m_Layer: 5
-  m_Name: Github
+  m_Name: bsky
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3481,7 +3480,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 8056600719258356202}
         m_TargetAssemblyTypeName: YARG.Menu.Main.MainMenu, Assembly-CSharp
-        m_MethodName: OpenGithub
+        m_MethodName: Openbsky
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

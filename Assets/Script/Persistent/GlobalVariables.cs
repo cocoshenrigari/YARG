@@ -31,7 +31,8 @@ namespace YARG
         Menu,
         Gameplay,
         Calibration,
-        Score
+        Score,
+        Intro,
     }
 
     [DefaultExecutionOrder(-5000)]
@@ -92,10 +93,10 @@ namespace YARG
 
         private void Start()
         {
+            LoadScene(SceneIndex.Menu);
             SettingsManager.LoadSettings();
             InputManager.Initialize();
-
-            LoadScene(SceneIndex.Menu);
+           
         }
 
 #if UNITY_EDITOR
