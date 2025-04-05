@@ -12,4 +12,5 @@
         "Temp/":true
     },
     "dotnet.defaultSolution": "YARG.sln",
+    "zencoder.enableRepoIndexing": true,
 }
