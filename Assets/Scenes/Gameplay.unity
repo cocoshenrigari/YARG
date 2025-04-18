@@ -5120,7 +5120,7 @@ PrefabInstance:
     - target: {fileID: 7369758456864847374, guid: f8c143f8514898b4fb85fbadc18550c0,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 515
+      value: 572
       objectReference: {fileID: 0}
     - target: {fileID: 7369758456864847374, guid: f8c143f8514898b4fb85fbadc18550c0,
         type: 3}
@@ -7648,7 +7648,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1601132167
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8594,7 +8594,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1773048781}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ed07f62c3914bdb4bbea90e7bcfc14ed, type: 3}
   m_Name: 
